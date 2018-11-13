@@ -7,7 +7,7 @@ collection of datasets for analysis.
 {
 'all': ["usd", "euro", "$", ...],
 'symbol': ["$", ...],
-'iso': ["usd", "NPR"]
+'iso': ["usd", "npr"]
 }
 ```
 
